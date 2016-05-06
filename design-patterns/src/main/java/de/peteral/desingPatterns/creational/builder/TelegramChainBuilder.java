@@ -1,4 +1,4 @@
-package de.peteral.desingPatterns.creational.chainofresponsibility;
+package de.peteral.desingPatterns.creational.builder;
 
 import java.util.ArrayList;
 import java.util.List;

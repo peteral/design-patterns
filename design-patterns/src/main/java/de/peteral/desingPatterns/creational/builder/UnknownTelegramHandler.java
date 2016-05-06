@@ -1,4 +1,4 @@
-package de.peteral.desingPatterns.creational.chainofresponsibility;
+package de.peteral.desingPatterns.creational.builder;
 
 /**
  * Created by peteral on 06.05.2016.
